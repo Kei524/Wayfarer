@@ -71,7 +71,7 @@ background-size: cover ;
 
 .about {
 padding: 100px 0;
-    background:#ddd url(/images/about_section.png) no-repeat center bottom;
+    background:#ddd url(../images/about_section.png) no-repeat center bottom;
 background-size: cover ;
 }
 
