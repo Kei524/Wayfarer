@@ -54,7 +54,7 @@ font-weight: 300;
 
 
 .intro_back{
-    background:#ddd url(/images/intro_section.png) no-repeat top;
+    background:#ddd url(../images/intro_section.png) no-repeat top;
 background-size: cover ;
 
     height: 400px;
@@ -130,7 +130,7 @@ font-weight: 300;
 
 }
 .statement_back{
-    background: url(/images/statements_back.png) no-repeat top;
+    background: url(../images/statements_back.png) no-repeat top;
 background-size: cover ;
     height: 400px;
 
