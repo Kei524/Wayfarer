@@ -36,13 +36,23 @@ p, table, thead, tbody, tfoot, tr, th, td, caption, li {
 
 
 .top{
-     background:url(images/vehicle-closeup.png) no-repeat top left;
+     background:url(images/Collage_w_Logo.jpeg) no-repeat top center;
 background-size: cover ;
 width: auto;
-    height: 750px;
+    height: 780px;
     position: relative
 }
 
+@media screen and (max-width:480px) {
+
+.top{
+     background:url(images/Collage_w_Logo.jpeg) no-repeat top center;
+background-size: cover ;
+width: auto;
+    height: 400px;
+    position: relative
+}
+}
 
 
 .hero{
