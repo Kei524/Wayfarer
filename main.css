@@ -34,6 +34,17 @@ p, table, thead, tbody, tfoot, tr, th, td, caption, li {
     background: #00B2F2;
 }
 
+
+.top{
+     background:url(images/vehicle-closeup.png) no-repeat top left;
+background-size: cover ;
+width: auto;
+    height: 650px;
+    position: relative
+}
+
+
+
 .hero{
     background-color: #000;
     width: 100%;
@@ -99,8 +110,9 @@ background-size: cover ;
 }
 
 .custom{
-background-color: #f2f2f2;
+background-color: #FFF;
     padding: 120px 0;
+
 
 }
 
@@ -115,6 +127,7 @@ font-weight: 300;
 .statement{
 
     padding: 100px 0;
+    border-top: 1px #f2f2f2 solid;
 
 
 
