@@ -36,7 +36,7 @@ p, table, thead, tbody, tfoot, tr, th, td, caption, li {
 
 
 .top{
-     background:url(images/Collage_w_Logo.jpeg) no-repeat top center;
+     background:url(images/001.jpeg) no-repeat top center;
 background-size: cover ;
 width: auto;
     height: 780px;
@@ -46,7 +46,7 @@ width: auto;
 @media screen and (max-width:480px) {
 
 .top{
-     background:url(images/Collage_w_Logo.jpeg) no-repeat top center;
+     background:url(images/001sp.001.jpeg) no-repeat top center;
 background-size: cover ;
 width: auto;
     height: 400px;
@@ -62,11 +62,11 @@ width: auto;
 }
 
 .intro {
-padding: 80px auto;
+padding: 400px auto;
 }
 
 .intro h1 {
-margin-top: 15%;
+margin-top: 0%;
 font-weight: 300;
     font-size: 40px;
     line-height: 50px;
@@ -75,10 +75,10 @@ font-weight: 300;
 
 
 .intro_back{
-    background:#ddd url(images/intro_section.png) no-repeat top;
+    background:#FFF;
 background-size: cover ;
 
-    height: 400px;
+    height: 100px;
 
 
 }
@@ -92,8 +92,7 @@ background-size: cover ;
 
 .about {
 padding: 100px 0;
-    background:#ddd url(images/about_section.png) no-repeat center bottom;
-background-size: cover ;
+    background:#FFF
 }
 
 .about h2{
